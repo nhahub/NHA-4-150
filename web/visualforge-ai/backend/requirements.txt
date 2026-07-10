@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+SQLAlchemy
+alembic
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+torch
+diffusers
+transformers
+accelerate
+safetensors
+peft
+pillow
